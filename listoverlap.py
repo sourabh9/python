@@ -1,24 +1,55 @@
 #!/usr/bin/python
-x = input ("What is size of first list:")
-print "Size1 :", x
-y = input ("What is size of second list:")
-print "Size2 :", y
-list1 = list()
-list2 = list()
-list3 = list()
 
-for i in range(x):
-   num1 = input("enter the number:")
-   n1 = list1.append(num1)
-print "first list is:", list1
-for i in range(y):
-   num2 = input("enter the number:")
-   n2 = list2.append(num2)
-print "second list is:", list2
-if x <= y :
-    for j in range(x) :
-        for k in range(y) : 
-           if list1[j] == list2[k] : list3.append(list1[j])
-           else : pass
-else : pass
-print "sorted list:", list3
+# a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+# b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+### First Method
+# c = []
+# for i in a:
+#     for j in b:
+#         if i==j:
+#             c.append(i)
+# print c
+
+### Second Method
+# print([i for i in a for j in b if i==j])
+
+###Third Method
+
+# c = []
+# for i in a:
+#     for j in b:
+#         if i==j:
+#             if i in c:
+#                 continue
+#             else:
+#                 c.append(i)
+# print c
+
+###Fourth Method
+
+# import random
+# x = random.sample(range (100),10)
+# y = random.sample(range (20),15)
+# z = []
+# for i in x:
+#     if i in y:
+#         z.append(i)
+# print z
+
+###One line Method
+import random
+# x = random.sample(range (100),10)
+# y = random.sample(range (20),15)
+# c = []
+# c = [i for i in x if i in y and i not in c]
+# print c
+
+###Another Method
+
+x = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+y = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+c = []
+# c = [i for i in x if i in y and i not in c]
+c = [i for i in x if i in y]
+print c
