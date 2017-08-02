@@ -36,3 +36,10 @@ if result ==1 :
     print "Not pallendrome"
 else :
     print "Pallendrome"
+
+
+#####Third method
+
+x = raw_input("Enter the string: ")
+if x[0:]==x [::-1] : print "pallendrome"
+else: print "Not pallendrome"
