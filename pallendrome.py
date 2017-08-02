@@ -43,3 +43,9 @@ else :
 x = raw_input("Enter the string: ")
 if x[0:]==x [::-1] : print "pallendrome"
 else: print "Not pallendrome"
+
+#######Fourth Method
+
+z = lambda s:('Not Pallindrome','Pallindrome')[s[::] == s[::-1]]
+print (z(raw_input("Enter the string:")))
+
