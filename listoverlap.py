@@ -9,7 +9,7 @@ for i in a:
     for j in b:
         if i==j:
             c.append(i)
-print c
+print (c)
 
 ### Second Method
 print([i for i in a for j in b if i==j])
