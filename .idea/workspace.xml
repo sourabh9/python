@@ -11,51 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="listoverlap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listoverlap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pallendrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pallendrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listremoveduplicate.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/listremoveduplicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listcomprehension.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listcomprehension.py">
+      <file leaf-file-name="Reverseorder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Reverseorder.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guessinggame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guessinggame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,46 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
               <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="divisor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/divisor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compressedeven.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/compressedeven.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agename.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agename.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listoverlap_old.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listoverlap_old.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,6 +62,7 @@
         <option value="$PROJECT_DIR$/listends.py" />
         <option value="$PROJECT_DIR$/fibonacci.py" />
         <option value="$PROJECT_DIR$/listremoveduplicate.py" />
+        <option value="$PROJECT_DIR$/Reverseorder.py" />
       </list>
     </option>
   </component>
@@ -196,7 +117,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listremoveduplicate">
+  <component name="RunManager" selected="Python.Reverseorder">
+    <configuration name="Reverseorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverseorder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,23 +148,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fibonacci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="guessinggame" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guessinggame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +204,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.guessinggame" />
-      <item index="1" class="java.lang.String" itemvalue="Python.listoverlapextension" />
-      <item index="2" class="java.lang.String" itemvalue="Python.listends" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fibonacci" />
-      <item index="4" class="java.lang.String" itemvalue="Python.listremoveduplicate" />
+      <item index="0" class="java.lang.String" itemvalue="Python.listoverlapextension" />
+      <item index="1" class="java.lang.String" itemvalue="Python.listends" />
+      <item index="2" class="java.lang.String" itemvalue="Python.fibonacci" />
+      <item index="3" class="java.lang.String" itemvalue="Python.listremoveduplicate" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Reverseorder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.listremoveduplicate" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Python.listends" />
-        <item index="3" class="java.lang.String" itemvalue="Python.listoverlapextension" />
-        <item index="4" class="java.lang.String" itemvalue="Python.guessinggame" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Reverseorder" />
+        <item index="1" class="java.lang.String" itemvalue="Python.listremoveduplicate" />
+        <item index="2" class="java.lang.String" itemvalue="Python.fibonacci" />
+        <item index="3" class="java.lang.String" itemvalue="Python.listends" />
+        <item index="4" class="java.lang.String" itemvalue="Python.listoverlapextension" />
       </list>
     </recent_temporary>
   </component>
@@ -421,10 +342,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/listremoveduplicate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pallendrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listoverlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listcomprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -437,23 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/agename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/compressedeven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listcomprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -469,26 +398,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pallendrome.py">
+    <entry file="file://$PROJECT_DIR$/agename.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listoverlap.py">
+    <entry file="file://$PROJECT_DIR$/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="262">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listremoveduplicate.py">
+    <entry file="file://$PROJECT_DIR$/Reverseorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
